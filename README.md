@@ -41,7 +41,7 @@ And output the file coefficient and p value over the threshold. Threshold should
 
 # Visualization
 **plot** generate correlation diagram (only scatter plot) between one gene and one phenotype. Set gene name as -g and phenotype name as -n. If you add -r option, write regression line. If you add -jx and -jy option, generate jitter plot.  
-<img width="750" alt="fig2" src=https://github.com/user-attachments/assets/e2bd8e5c-664c-438b-a5d8-b3d3103bc9ad>
+<img width="750" alt="fig2" src=https://github.com/user-attachments/assets/7ccaed08-e3ca-4130-8deb-a0f20c756b0b>
 
 # Data formatting
 **sort_column** is command allows you to arbitrarily change the column notation of genePAV.tsv obtained by gff2matrix in [pangene][pangene].  
