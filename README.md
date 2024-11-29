@@ -48,7 +48,7 @@ And output the file coefficient and p value over the threshold. Threshold should
 **transpose_table** is change row and column of csv or tsv file.
 Please include the extension for the options of these two command.  
 <img width="500" alt="fig3" src=https://github.com/user-attachments/assets/813bab6d-44c7-4570-8829-8f943de699cb>
-<img width="400" alt="fig4" src=https://github.com/user-attachments/assets/2faeaca0-8769-4fbf-a204-9f800d43c899>
+<img width="400" alt="fig4" src=https://github.com/user-attachments/assets/50021d57-3f22-4a5c-94ad-4dddeaccf6b0>
 
 
 # Citation
