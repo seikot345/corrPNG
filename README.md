@@ -37,7 +37,7 @@ Use obtained tsv file for corrPNG.py as input. Phenotype data is averrable csv a
 **spiaman** for spiarman rho (ρ), and 
 **kendoll** for kendoll tau (τ).
 And output the file coefficient and p value over the threshold. Threshold should be one value (set 0.7 in default) and it works as positive and negative (e.g. 0.7 and -0.7).  
-<img width="750" alt="fig1" src=https://github.com/user-attachments/assets/c9e50729-136c-4172-8b64-f9db6de43bdf>
+<img width="750" alt="fig1" src=https://github.com/user-attachments/assets/66988a6a-fb45-4055-9d14-8c1e00702b36>
 
 # Visualization
 **plot** generate correlation diagram (only scatter plot) between one gene and one phenotype. Set gene name as -g and phenotype name as -n. If you add -r option, write regression line. If you add -jx and -jy option, generate jitter plot.  
