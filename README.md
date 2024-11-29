@@ -47,7 +47,7 @@ And output the file coefficient and p value over the threshold. Threshold should
 **sort_column** is command allows you to arbitrarily change the column notation of genePAV.tsv obtained by gff2matrix in [pangene][pangene].  
 **transpose_table** is change row and column of csv or tsv file.
 Please include the extension for the options of these two command.  
-<img width="500" alt="fig3" src=https://github.com/user-attachments/assets/6bf1bfdd-ad38-4d73-9ecc-494eeaf15573>
+<img width="500" alt="fig3" src=https://github.com/user-attachments/assets/813bab6d-44c7-4570-8829-8f943de699cb>
 <img width="400" alt="fig4" src=https://github.com/user-attachments/assets/2faeaca0-8769-4fbf-a204-9f800d43c899>
 
 
