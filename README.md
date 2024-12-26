@@ -23,6 +23,7 @@ python corrPNG.py transpose_table -i input.tsv -o output.tsv
 # Requirements
 The following software must be installed on your machine:  
 Python : tested with version 3.8
+install module matplotlib, pandas, scipy and seaborn.
 
 # introduction 
 corrPNG.py calculate correlation coefficient between the phenotype data and copy number variation of gene including the gene presence/absence. Run the following command in [pangene][pangene] and create the tab-delimited file. 
